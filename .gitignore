@@ -1,2 +1,4 @@
+*.sqlite3
 .env
 passwd.txt
+__pycache__/
